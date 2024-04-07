@@ -1,4 +1,2 @@
 ## Space Race
-### A space text adventure
-
-Built by Alan Wang, Justin Wang, and Brian Lindsay
+A space text adventure built by Alan Wang, Justin Wang, and Brian Lindsay
